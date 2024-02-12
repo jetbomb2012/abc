@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '使用 kubeadm 安装 Kubernetes 集群'
+title: '新黑澀會暫用中的blog'
 tags: code
 ---
 
