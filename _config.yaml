@@ -8,7 +8,7 @@ img_url:          https://cdn.jsdelivr.net/gh/infp/infp.github.io/images
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            孺子牛骑士的博客
+title:           新黑澀會博客
 tagline:          俯首甘为孺子牛
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
