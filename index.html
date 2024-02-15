@@ -7,7 +7,7 @@ permalink: index.html
 <article class="index">
   <h1 class="page-title">雄蓋衝</h1>
   <div class="message">
-    {% if site.notification == '' %}雄蓋衝的項目。{% else %}{{site.notification | markdownify}}{% endif %}
+    {% if site.notification == '' %}雄蓋衝的項目{% else %}{{site.notification | markdownify}}{% endif %}
   </div>
 
   {% for post in site.posts %}
